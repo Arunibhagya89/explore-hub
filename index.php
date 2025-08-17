@@ -375,8 +375,8 @@ $conn->close();
                 </div>
                 <div class="col-md-4 mb-4">
                     <h5>Contact Info</h5>
-                    <p><i class="bi bi-geo-alt"></i> Kataragama, Uva Province, Sri Lanka</p>
-                    <p><i class="bi bi-phone"></i> +94 123 456 789</p>
+                    <p><i class="bi bi-geo-alt"></i> Colombo, Western Province, Sri Lanka</p>
+                    <p><i class="bi bi-phone"></i> +94 76 456 2089</p>
                     <p><i class="bi bi-envelope"></i> info@explorehub.lk</p>
                     <div class="mt-3">
                         <a href="#" class="text-white me-3"><i class="bi bi-facebook"></i></a>
