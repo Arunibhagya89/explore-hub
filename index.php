@@ -296,7 +296,7 @@ $conn->close();
     <!-- Destinations Section -->
     <section class="py-5" id="destinations">
         <div class="container">
-            <div class="text-center mb-5">
+           <div class="text-center mb-5">
                 <h2>Popular Destinations</h2>
                 <p class="lead">Find the perfect hotel in these amazing locations</p>
             </div>
